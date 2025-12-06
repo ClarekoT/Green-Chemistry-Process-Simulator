@@ -10,5 +10,6 @@ By solving the underlying differential equations of reaction kinetics, this simu
 - **Generalised kinetic engine:** an object-oriented engine capable of simulating any user-defined chemical mechanism, including multi-step reactions with fast equilibria and reactive intermediates.
 - **Dynamic metrics calculation:** a dedicated module that calculates a suite of key green chemistry metrics (e.g., Process Mass Intensity, Environmental Quotient) at every time step of the simulation.
 - **Visualisation dashboard:** an interactive dashboard featuring an animated radar chart that visualises the evolving trade-offs of the process as it proceeds from reactants to products.
+- **Rigorously validated:** the engine's accuracy is confirmed by a comprehensive validation suite, proving its adherence to fundamental physical laws including conservation of mass, thermodynamic equilibrium, and Arrhenius kinetics.
 
 The tool is applied to a case study of aspirin synthesis, comparing traditional vs. greener routes through kinetic modelling rather than manual data transcription.
